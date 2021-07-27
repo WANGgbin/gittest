@@ -2,3 +2,4 @@ hello
 git
 test no-fast
 test --no-ff
+# add a comment
